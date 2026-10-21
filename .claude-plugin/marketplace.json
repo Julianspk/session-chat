@@ -1,0 +1,5 @@
+{
+  "name": "session-chat",
+  "owner": { "name": "Julian" },
+  "plugins": [{ "name": "session-chat", "source": "./" }]
+}

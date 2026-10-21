@@ -1,0 +1,6 @@
+{
+  "name": "session-chat",
+  "version": "0.1.0",
+  "description": "Panel zum Nachrichtenaustausch zwischen Claude-Sessions auf diesem Rechner",
+  "types": "./types/index.d.ts"
+}
